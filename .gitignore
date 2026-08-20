@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.env
+*.pkl
+!models/.gitkeep
+__pycache__/
+.DS_Store
+Thumbs.db
