@@ -2,7 +2,7 @@
 
 Exploratory data analysis for an asthma diagnosis dataset (Kaggle). Part of an ML pipeline for a clinic-style use case (**BreathWell Clinic**).
 
-## What this lab covers
+## What this project covers
 
 - Dataset overview: shape, dtypes, descriptive stats, target distribution
 - Data quality: missing values, outliers (IQR), duplicates
